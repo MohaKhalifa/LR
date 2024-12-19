@@ -30,4 +30,20 @@ https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab
 > Operating Systems & U becoming a Power User
 - uptime for bash
 - lsof list open files "used"
------- test ------
+# To-Do
+- github pages & cv; 
+- last link & html css js;
+- python if possible 
+- line numbers on vim or neovim
+- vim vs neovim 
+- vscodium 
+- async
+- CCNA etc
+- are github commits blames errasable
+- blame github
+- if diff: []
+- Bash Scripting
+- PS and Pash 
+- Git on PS
+- winget, Chocholaty, Get-Package PS;
+
