@@ -22,3 +22,6 @@ ________________________
 hi hi hi hi
 > vim:
 - o for insert mode in new line
+> tr 
+- lookup for later 
+https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package
