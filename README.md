@@ -20,3 +20,5 @@ ________________________
 >   inxi:
 - command for displaying cpu/gpu/etc... info # -G flag for graphichs info & -A for audio check man7.org
 hi hi hi hi
+> vim:
+- o for insert mode in new line
