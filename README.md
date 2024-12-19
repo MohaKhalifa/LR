@@ -19,4 +19,4 @@ ref":     https://docs.github.com/en/github-cli/github-cli/quickstart
 ________________________
 >   inxi:
 - command for displaying cpu/gpu/etc... info # -G flag for graphichs info & -A for audio check man7.org
-
+hi
