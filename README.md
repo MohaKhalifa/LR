@@ -29,3 +29,4 @@ https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab
 # Courses:
 > Operating Systems & U becoming a Power User
 - uptime for bash
+- lsof list open files "used"
