@@ -46,4 +46,5 @@ https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab
 - PS and Pash 
 - Git on PS
 - winget, Chocholaty, Get-Package PS;
-
+- :r! date
+Fri Dec 20 01:50:58 AM EET 2024
