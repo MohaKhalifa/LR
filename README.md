@@ -50,7 +50,7 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - desire, I wanna cd into your heart!
 - github numbers insights etc 
 - pulse audio alsam inxi -A & audio manipulation program search
-- yt-dlp from txt >> endofline if duplicate breake;
+- yt-dlp from txt >> endofline if duplicate break;
 - alt + f4 ain't working;
 - rust lang; 
 - ctrl+z vim
