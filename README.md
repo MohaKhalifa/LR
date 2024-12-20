@@ -64,5 +64,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - Linux file system
 - iot (alexa)
 - optimized sup optiman code
+- xmodmap session startup
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
