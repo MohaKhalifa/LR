@@ -59,5 +59,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - auto corrct vim 
 - git repos locally
 - git repo creation 
+- GPU order, debian;
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
