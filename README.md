@@ -53,5 +53,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - desire, I wanna cd into your heart!
 - github numbers insights etc 
 - pulse audio alsam inxi -A & audio manipulation program search
+- yt-dlp from txt >> endofline if duplicate breake;
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
