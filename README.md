@@ -59,6 +59,10 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - auto corrct vim 
 - git repos locally
 - git repo creation 
-- GPU order, debian;
+- GPU order, debian & arch;
+- systemd vs runnit openrc;
+- Linux file system
+- iot (alexa)
+- optimized sup optiman code
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
