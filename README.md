@@ -55,5 +55,7 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - pulse audio alsam inxi -A & audio manipulation program search
 - yt-dlp from txt >> endofline if duplicate breake;
 - alt + f4 ain't working;
+- rust lang; 
+- ctrl+z vim
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
