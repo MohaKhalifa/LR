@@ -51,5 +51,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - go to the end of line in vim
 - GIMP & Coursera linkedin
 - desire, I wanna cd into your heart!
+- github numbers insights etc 
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
