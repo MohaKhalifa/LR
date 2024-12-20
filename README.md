@@ -73,3 +73,5 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
 - tail print last ten lines of a doc
+- eventvwe.msc
+- msc search;
