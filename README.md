@@ -60,5 +60,7 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - make em mechanics; make em embeded; make em x,y axis;
 - link tsoding view of bad hardware
 - auto corrct vim 
+- git repos locally
+- git repo creation 
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
