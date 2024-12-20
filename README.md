@@ -10,7 +10,7 @@
  git branch -M [branch]
  git remote add origin [link]
  git push -u main origin main
-
+ gh create repo [] [flags] --public -
 
 ```
 ref":     https://docs.github.com/en/github-cli/github-cli/quickstart
