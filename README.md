@@ -57,5 +57,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - alt + f4 ain't working;
 - rust lang; 
 - ctrl+z vim
+- make em mechanics; make em embeded; make em x,y axis;
   > **Fri Dec 20 01:50:58 AM EET 2024**
 - hjkl extention with js
