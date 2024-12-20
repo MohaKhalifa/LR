@@ -1,6 +1,3 @@
-# LR
-- This markdown file is divided into tow sections: 1.Bash 2.Ps each containing usfull commands
-- from the terminal
 # Bash  
 >   Setting up a repo from the terminal
 ```
