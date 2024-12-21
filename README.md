@@ -28,11 +28,11 @@ hi hi hi hi
 - [emmet](https://github.com/mattn/emmet-vim)
 - ?yank whole line
 > tr 
-
-
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
+# Python3:
+- ?Rename Files with conditions+/sequence;
 # Courses:
 > Operating Systems & U becoming a Power User
 - uptime for bash
@@ -88,4 +88,5 @@ hi hi hi hi
 - mv/cp hidden files
 - remove files/ move files to new branch;?branch; ?mkbranch;
 - image viewr: lightweight xfce4
+
 
