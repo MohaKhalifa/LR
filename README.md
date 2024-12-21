@@ -88,5 +88,6 @@ hi hi hi hi
 - mv/cp hidden files
 - remove files/ move files to new branch;?branch; ?mkbranch;
 - image viewr: lightweight xfce4
+- ?File *The Terminal;
 
 
