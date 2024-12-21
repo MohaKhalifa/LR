@@ -25,6 +25,7 @@ hi hi hi hi
 - I: "fistinline && insert";
 - u: "undo ctrl+r: "redo"; # n u/ctrl+r==loop";
 - o: "newline & insert";O: "newlineup & insert"; 
+- [emmet](https://github.com/mattn/emmet-vim)
 > tr 
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
@@ -78,3 +79,4 @@ hi hi hi hi
 - msc search;
 - https://terminal.sexy
 - [mkd](https://fileinfo.com/extension/mkd)
+
