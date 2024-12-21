@@ -99,3 +99,4 @@
 - image viewr: lightweight xfce4
 - ?File The Terminal;
 - get file path with it name
+- cms????? from Html,css Course
