@@ -12,7 +12,9 @@
  gh create repo [] [flags] --public -
 
 ```
-ref":     https://docs.github.com/en/github-cli/github-cli/quickstart
+[ref](https://docs.github.com/en/github-cli/github-cli/quickstart)
+> ??
+- find file;
 ________________________
 > Markdown
 - [name](link) **spaceless!**
