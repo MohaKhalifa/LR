@@ -18,7 +18,8 @@ ________________________
 - command for displaying cpu/gpu/etc... info # -G flag for graphichs info & -A for audio check man7.org
 hi hi hi hi
 > vim:
-- o for insert mode in new line
+- b: "back a word"; w: "forward a word"; A: (Append)"endline && insert" o:"newline && insert;
+- I: "fistinline && insert";
 > tr 
 - lookup for later 
 https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package
