@@ -77,3 +77,4 @@ hi hi hi hi
 - eventvwe.msc
 - msc search;
 - https://terminal.sexy
+- [mkd](https://fileinfo.com/extension/mkd)
