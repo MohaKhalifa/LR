@@ -37,6 +37,11 @@ hi hi hi hi
 > Operating Systems & U becoming a Power User
 - uptime for bash
 - lsof list open files "used"
+# FileTypes
+> Windows
+- ?msc 
+> Unix
+- use /dev/net/tun();"character special (10/200)" 
 # To-Do
 - github pages & cv; 
 - last link & html css js;
@@ -88,6 +93,5 @@ hi hi hi hi
 - mv/cp hidden files
 - remove files/ move files to new branch;?branch; ?mkbranch;
 - image viewr: lightweight xfce4
-- ?File *The Terminal;
-
-
+- ?File The Terminal;
+- get file path with it name
