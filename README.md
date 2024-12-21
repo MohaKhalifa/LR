@@ -77,6 +77,6 @@ hi hi hi hi
 - tail print last ten lines of a doc
 - eventvwe.msc
 - msc search;
-- https://terminal.sexy
+- [terminal appearance](https://terminal.sexy)
 - [mkd](https://fileinfo.com/extension/mkd)
 
