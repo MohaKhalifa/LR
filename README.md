@@ -15,13 +15,16 @@
 [ref](https://docs.github.com/en/github-cli/github-cli/quickstart)
 > ??
 - find file;
-________________________
-> Markdown
+- tr 
+> ==
+- inxi:command for displaying cpu/gpu/etc... info * -G flag for graphichs info & -A for audio check man7.org* 
+# Markdown
 - [name](link) **spaceless!**
->   inxi:
-- command for displaying cpu/gpu/etc... info # -G flag for graphichs info & -A for audio check man7.org
-hi hi hi hi
-> vim:
+# HTML5
+> ??
+- scale :: background;
+# vim:
+> ===
 - b: "back a word"; w: "forward a word";
 - A: (Append)"endline && insert"
 - I: "fistinline && insert";
@@ -29,7 +32,6 @@ hi hi hi hi
 - o: "newline & insert";O: "newlineup & insert"; 
 - [emmet](https://github.com/mattn/emmet-vim)
 - ?yank whole line
-> tr 
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
