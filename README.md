@@ -46,6 +46,11 @@
 - ?msc 
 > Unix
 - use /dev/net/tun();"character special (10/200)" 
+# english
+> ??
+- resilient
+> ===
+- 
 # To-Do
 - github pages & cv; 
 - last link & html css js;
