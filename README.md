@@ -1,6 +1,3 @@
-vjalskfjvoalekfsjvlaksjlvkajflkvj;a;dlkfjaelkfjvlakjv'l
-
-- test
 # Bash  
 >   Setting up a repo from the terminal
 ```
@@ -75,3 +72,4 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - tail print last ten lines of a doc
 - eventvwe.msc
 - msc search;
+- https://terminal.sexy
