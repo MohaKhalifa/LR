@@ -15,7 +15,7 @@
 ref":     https://docs.github.com/en/github-cli/github-cli/quickstart
 ________________________
 > Markdown
-- [name] (link)
+- [name](link) **spaceless!**
 >   inxi:
 - command for displaying cpu/gpu/etc... info # -G flag for graphichs info & -A for audio check man7.org
 hi hi hi hi
