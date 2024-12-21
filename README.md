@@ -84,4 +84,5 @@ hi hi hi hi
 - [mkd](https://fileinfo.com/extension/mkd)
 - less decendin
 - ecept in mv etc;
+- linux logs
 
