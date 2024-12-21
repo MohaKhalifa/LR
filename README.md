@@ -18,9 +18,11 @@ ________________________
 - command for displaying cpu/gpu/etc... info # -G flag for graphichs info & -A for audio check man7.org
 hi hi hi hi
 > vim:
-- b: "back a word"; w: "forward a word"; A: (Append)"endline && insert" o:"newline && insert;
+- b: "back a word"; w: "forward a word";
+- A: (Append)"endline && insert"
 - I: "fistinline && insert";
 - u: "undo ctrl+r: "redo"; # n u/ctrl+r==loop";
+- o: "newline & insert";O: "newlineup & insert"; 
 > tr 
 - lookup for later 
 https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package
