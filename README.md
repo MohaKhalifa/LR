@@ -85,4 +85,6 @@ hi hi hi hi
 - less decendin
 - ecept in mv etc;
 - linux logs
+- mv/cp hidden files
+- remove files/ move files to new branch;?branch; ?mkbranch;
 
