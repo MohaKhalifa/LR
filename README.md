@@ -27,8 +27,8 @@ hi hi hi hi
 - o: "newline & insert";O: "newlineup & insert"; 
 > tr 
 - lookup for later 
-- [askubunto] (https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
-- [stackexchaged] (https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
+- [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
+- [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
 # Courses:
 > Operating Systems & U becoming a Power User
 - uptime for bash
