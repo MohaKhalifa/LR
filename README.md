@@ -20,6 +20,7 @@ hi hi hi hi
 > vim:
 - b: "back a word"; w: "forward a word"; A: (Append)"endline && insert" o:"newline && insert;
 - I: "fistinline && insert";
+- u: "undo ctrl+r: "redo"; # n u/ctrl+r==loop";
 > tr 
 - lookup for later 
 https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package
@@ -46,7 +47,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - winget, Chocholaty, Get-Package PS;
 - :r! date
 - git on your own server
-- go to the end of line in vim
 - GIMP & Coursera linkedin
 - desire, I wanna cd into your heart!
 - github numbers insights etc 
@@ -54,7 +54,6 @@ https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-
 - yt-dlp from txt >> endofline if duplicate break;
 - alt + f4 ain't working;
 - rust lang; 
-- ctrl+z vim
 - make em mechanics; make em embeded; make em x,y axis;
 - link tsoding view of bad hardware
 - auto corrct vim 
