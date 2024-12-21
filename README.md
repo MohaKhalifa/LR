@@ -26,7 +26,10 @@ hi hi hi hi
 - u: "undo ctrl+r: "redo"; # n u/ctrl+r==loop";
 - o: "newline & insert";O: "newlineup & insert"; 
 - [emmet](https://github.com/mattn/emmet-vim)
+- ?yank whole line
 > tr 
+
+
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
@@ -80,6 +83,3 @@ hi hi hi hi
 - [terminal appearance](https://terminal.sexy)
 - [mkd](https://fileinfo.com/extension/mkd)
 - less decendin
-
-
-
