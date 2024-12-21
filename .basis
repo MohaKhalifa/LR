@@ -1,0 +1,10 @@
+when using yt-dlp use the -F flag to view all possible formats,
+however if you want to use 
+720 = 334
+and ba(m4a) = 140 #N/A
+put them after the f flag
+then use ffmpeg to merge them in the following format:
+ffmpeg -i vid.ext -i aud.ext copy -c copy out.ext
+Ref":
+https://superuser.com/questions/277642/how-to-merge-audio-and-video-file-in-ffmpeg
+https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#format-selection

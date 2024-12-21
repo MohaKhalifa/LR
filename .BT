@@ -1,0 +1,13 @@
+bluetooth connect 
+sudo systemctl enable&& start bluetooth service 
+bluetoothctl 
+	power on 
+	agent on 
+	default agent
+	scan on 
+	trust [ the dev mac address]
+	# devices # will show the previos scan output
+	pair [mac address]
+	connect [mac address]
+	scan off [to clear the popups]
+pavucontrol aka volume control
