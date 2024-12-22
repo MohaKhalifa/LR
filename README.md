@@ -22,12 +22,48 @@
 - [name](link) **spaceless!**
 # html, css, js, courcse 
 > ??
+- API ??
+- ATOM
+- integrations: aws toolkit cloudformation template;
+- ?? templating lan?? Handelbars Jinja
+> Front-End:
+- Ruby can be used for the front end;
 - scale :: background;
+- divs, split screens auto-align: Reactivewp;
+- font insertion;
+- pl versions 
+- npm vs jsframeworks
+- Gecko vs V8
+- innovaation,
+-
+    > css 
+        - Bootstrap:? complicated designs;
+> js
+    - sort 
+    - Angular: Google. foss,
+    - React: Meta. build & drop into wp;
+        - Has no ?Routing;
+    - vue: Community. visual focused.
+    - jquery: ?
+    - TypeScript: js with syntax highlighting, & more func; 
+    - Deno: NoBread.
+> Back-End:
+    Python: (Django,Flask)
+    Java:
+    Node.js:
+    JavaScript: (Express.js)
+    Ruby: (Rails)
+    ??:(spring)
+    
+
+
 > ===
-    - wepages
+    - webpages
     Client inreracts with the server wich hosts either *Dynamic* or *static* wp
+[static vs dynamic](https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/)
 
 # vim:
+> get debuggers
 > ===
 - b: "back a word"; w: "forward a word";
 - A: (Append)"endline && insert"
@@ -52,6 +88,9 @@
 - use /dev/net/tun();"character special (10/200)" 
 # english
 > ??
+```
+select* "lie" from plural
+```
 - resilient
 > ===
 - 
@@ -59,7 +98,6 @@
 - welcome to heartbreak Kanye West 
 # To-Do
 - github pages & cv; 
-- last link & html css js;
 - python if possible 
 - line numbers on vim or neovim
 - vim vs neovim 
@@ -81,7 +119,7 @@
 - pulse audio alsam inxi -A & audio manipulation program search
 - yt-dlp from txt >> endofline if duplicate break;
 - alt + f4 ain't working;
-- rust lang; 
+- rust ; 
 - make em mechanics; make em embeded; make em x,y axis;
 - link tsoding view of bad hardware
 - auto corrct vim 
@@ -112,3 +150,5 @@
 - get file path with it name
 - cms????? from Html,css Course
 - UX/UI
+- js console; can console use wasm;
+- hell is oop;
