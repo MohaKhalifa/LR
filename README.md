@@ -67,7 +67,9 @@
     express.js supports caching, meaning loads faster;
     Ruby: (Rails)
        
-
+> API: predefined code with iffi;
+- Json
+- XML
 
 > ===
     - webpages
@@ -171,3 +173,4 @@ select* "lie" from plural
 - Git Rolllback
 - ~/.vimrc >> pch && terminal.colors from asap;
 - text file sizes, post-compilation file sizes;
+- ?p7zip bash;
