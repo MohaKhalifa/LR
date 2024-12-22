@@ -152,3 +152,5 @@ select* "lie" from plural
 - UX/UI
 - js console; can console use wasm;
 - hell is oop;
+- freeplane && java - Get Debian;
+
