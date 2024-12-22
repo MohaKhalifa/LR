@@ -22,7 +22,7 @@
 - [name](link) **spaceless!**
 # html, css, js, courcse 
 > ??
-- API ??
+- API ?? token, validation, etc
 - ATOM
 - integrations: aws toolkit cloudformation template;
 - ?? templating lan?? Handelbars Jinja
@@ -38,7 +38,7 @@
 -
     > css 
         - Bootstrap:? complicated designs;
-> js
+> js [Libraries & FrameWorks](https://kinsta.com/blog/javascript-libraries/)
     - sort 
     - Angular: Google. foss,
     - React: Meta. build & drop into wp;
@@ -47,6 +47,8 @@
     - jquery: ?
     - TypeScript: js with syntax highlighting, & more func; 
     - Deno: NoBread.
+    - ? npm publishing;
+    - *[DOM Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) uses js to manipulate html elements*;
 - insert library
 > Back-End:
     Python: (Django,Flask)
@@ -76,7 +78,8 @@
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
-- line num: :set (number/relativenumber)(nu/rnu/; dis: :set (nonumber/nonu/norelativenumber)
+- line num: :set (number/relativenumber)(nu/rnu/; dis: :set (nonumber/nonu/norelativenumber) when short_cut:num reli = 0; [ref](https://linuxize.com/post/how-to-show-line-numbers-in-vim/)
+-  select* from File navigation
 # Python3:
 - ?Rename Files with conditions+/sequence;
 # Courses:
@@ -157,3 +160,4 @@ select* "lie" from plural
 - freeplane && java - Get Debian;
 - Git on domain
 - Git Rolllback
+- ~/.vimrc >> pch && terminal.colors from asap;
