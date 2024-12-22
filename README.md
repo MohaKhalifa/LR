@@ -47,6 +47,7 @@
     - jquery: ?
     - TypeScript: js with syntax highlighting, & more func; 
     - Deno: NoBread.
+- insert library
 > Back-End:
     Python: (Django,Flask)
     Java:
@@ -75,6 +76,7 @@
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
+- line num: :set (number/relativenumber)(nu/rnu/; dis: :set (nonumber/nonu/norelativenumber)
 # Python3:
 - ?Rename Files with conditions+/sequence;
 # Courses:
@@ -153,4 +155,5 @@ select* "lie" from plural
 - js console; can console use wasm;
 - hell is oop;
 - freeplane && java - Get Debian;
-
+- Git on domain
+- Git Rolllback
