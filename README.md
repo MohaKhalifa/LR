@@ -9,13 +9,14 @@
  git branch -M [branch]
  git remote add origin [link]
  git push -u main origin main
- gh create repo [] [flags] --public -
+ gh create repo [] [flags] --public 
 
 ```
 [ref](https://docs.github.com/en/github-cli/github-cli/quickstart)
 > ??
 - find file;
 - tr 
+- place launcher in xfce4
 > ==
 - inxi:command for displaying cpu/gpu/etc... info * -G flag for graphichs info & -A for audio check man7.org* 
 # Markdown
@@ -26,6 +27,12 @@
 - ATOM
 - integrations: aws toolkit cloudformation template;
 - ?? templating lan?? Handelbars Jinja
+- inversion of control: categorization of frameworks; opinionated: restricts to it's syntax. 
+- babel: Jabascipt compiler
+- webpack module bundle bundeler
+- backendjs&&fejs
+- JSX UI
+- Brother said ES6, cleancode, etc;
 > Front-End:
 - Ruby can be used for the front end;
 - scale :: background;
@@ -49,15 +56,17 @@
     - Deno: NoBread.
     - ? npm publishing;
     - *[DOM Document Object Model](https://www.w3schools.com/js/js_htmldom.asp) uses js to manipulate html elements*;
+    - Compiled js;
+    - js
 - insert library
 > Back-End:
     Python: (Django,Flask)
-    Java:
+    Java:   :(spring)
     Node.js:
-    JavaScript: (Express.js)
+    JavaScript: (Express.js, node.js)
+    express.js supports caching, meaning loads faster;
     Ruby: (Rails)
-    ??:(spring)
-    
+       
 
 
 > ===
@@ -134,7 +143,7 @@ select* "lie" from plural
 - systemd vs runnit openrc;
 - Linux file system
 - iot (alexa)
-- optimized sup optiman code
+- optimized sup optiman code aka clean code;
 - xmodmap session startup
 - the options key ain't here 
 - How to edit gifs
@@ -161,3 +170,4 @@ select* "lie" from plural
 - Git on domain
 - Git Rolllback
 - ~/.vimrc >> pch && terminal.colors from asap;
+- text file sizes, post-compilation file sizes;
