@@ -20,9 +20,13 @@
 - inxi:command for displaying cpu/gpu/etc... info * -G flag for graphichs info & -A for audio check man7.org* 
 # Markdown
 - [name](link) **spaceless!**
-# HTML5
+# html, css, js, courcse 
 > ??
 - scale :: background;
+> ===
+    - wepages
+    Client inreracts with the server wich hosts either *Dynamic* or *static* wp
+
 # vim:
 > ===
 - b: "back a word"; w: "forward a word";
@@ -51,6 +55,8 @@
 - resilient
 > ===
 - 
+# dlm Donwload Music
+- welcome to heartbreak Kanye West 
 # To-Do
 - github pages & cv; 
 - last link & html css js;
@@ -105,3 +111,4 @@
 - ?File The Terminal;
 - get file path with it name
 - cms????? from Html,css Course
+- UX/UI
