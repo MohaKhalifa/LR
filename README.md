@@ -9,6 +9,7 @@
 - extract requirenmets from .deb packagesj
 - how to use dpkg
 - ? makepkg -??:arch.
+- [/yt-dlp source](https://github.com/yt-dlp/yt-dlp)
 
 # Bash  
 >   Setting up a repo from the terminal
