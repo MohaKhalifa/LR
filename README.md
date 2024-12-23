@@ -1,3 +1,11 @@
+# INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
+- ?except: bash;
+- duckduckgo search syntax 
+- rmarkdown
+- extract requirenmets from .deb packagesj
+- how to use dpkg
+- ? makepkg -??:arch.
+
 # Bash  
 >   Setting up a repo from the terminal
 ```
@@ -85,7 +93,11 @@
 - u: "undo ctrl+r: "redo"; # n u/ctrl+r==loop";
 - o: "newline & insert";O: "newlineup & insert"; 
 - [emmet](https://github.com/mattn/emmet-vim)
-- ?yank whole line
+-  !!!!!!!!!!!!!!!!!!!!!?yank whole line
+- ?p after /search cache celar
+- ? db in insert mode;
+- ? paste predefined code in ~/.vimrc
+- ? :e;
 - lookup for later 
 - [askubunto](https://askubuntu.com/questions/80655/how-can-i-check-dependency-list-for-a-deb-package)
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
@@ -123,7 +135,7 @@ select* "lie" from plural
 - are github commits blames errasable
 - blame github
 - if diff: []
-- Bash Scripting
+- Bash Scripting: ?add custom script in the ~/.bashrc;
 - PS and Pash 
 - Git on PS
 - winget, Chocholaty, Get-Package PS;
@@ -174,3 +186,8 @@ select* "lie" from plural
 - ~/.vimrc >> pch && terminal.colors from asap;
 - text file sizes, post-compilation file sizes;
 - ?p7zip bash;
+- [Debian Advanced Installation](https://www.debian.orf)
+- APT replacement Chirtitus
+- Dbian server VS Ubuntu Server
+- GUI For vimrc for them crigners
+- get [Terminal configuration for colors](https://www.ternminal.sexy)
