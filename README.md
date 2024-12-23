@@ -1,4 +1,5 @@
 # INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
+- bashrc irresponsive
 - ?except: bash;
 < !-- test -->
 <!-- another test -->
