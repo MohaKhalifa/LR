@@ -1,6 +1,7 @@
 # INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
 - ?except: bash;
 < !-- test -->
+<!-- another test -->
 - duckduckgo search syntax 
 - rmarkdown
 - extract requirenmets from .deb packagesj
