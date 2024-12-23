@@ -1,9 +1,8 @@
 # INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
+- why [Linkedin](https://linkedin.com) uses url while [The Zucc](https://facebook.com) ?uses;
 - bashrc irresponsive
 - ?except: bash;
 - [Comments In MarkDown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
-<!-- test -->
-<!-- another test -->
 - duckduckgo search syntax 
 - rmarkdown
 - extract requirenmets from .deb packagesj
@@ -79,6 +78,7 @@
     JavaScript: (Express.js, node.js)
     express.js supports caching, meaning loads faster;
     Ruby: (Rails)
+    iframe in html
        
 > API: predefined code with iffi;
 - Json
