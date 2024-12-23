@@ -1,7 +1,8 @@
 # INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
 - bashrc irresponsive
 - ?except: bash;
-< !-- test -->
+- [Comments In MarkDown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
+<!-- test -->
 <!-- another test -->
 - duckduckgo search syntax 
 - rmarkdown
