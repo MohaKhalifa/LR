@@ -108,6 +108,7 @@
 - [stackexchaged](https://unix.stackexchange.com/questions/37258/refresh-reload-active-browser-tab-from-command-line?newreg=32a474b4035140e3acff6511ffd207bb)
 - line num: :set (number/relativenumber)(nu/rnu/; dis: :set (nonumber/nonu/norelativenumber) when short_cut:num reli = 0; [ref](https://linuxize.com/post/how-to-show-line-numbers-in-vim/)
 -  select* from File navigation
+- ?setup the vimrc
 # Python3:
 - ?Rename Files with conditions+/sequence;
 # Courses:
@@ -198,3 +199,4 @@ select* "lie" from plural
 - get [Terminal configuration for colors](https://www.ternminal.sexy)
 # pacman 
 - [proberly remove a package](https://www.reddit.com/r/archlinux/comments/ki9hmm/how_to_properly_removeuninstall_packagesapps_with/)
+
