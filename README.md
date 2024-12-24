@@ -98,6 +98,7 @@
 - u: "undo ctrl+r: "redo"; # n u/ctrl+r==loop";
 - o: "newline & insert";O: "newlineup & insert"; 
 - [emmet](https://github.com/mattn/emmet-vim)
+- [vim plugins tot](https://www.youtube.com/watch?v=lk2AogF-O5o)
 -  !!!!!!!!!!!!!!!!!!!!!?yank whole line
 - ?p after /search cache celar
 - ? db in insert mode;
