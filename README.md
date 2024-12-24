@@ -111,6 +111,7 @@
 -  select* from File navigation
 - ?setup the vimrc
 # Python3:
+- ?install pip;
 - ?Rename Files with conditions+/sequence;
 # Courses:
 > Operating Systems & U becoming a Power User
@@ -201,3 +202,4 @@ select* "lie" from plural
 # pacman 
 - [proberly remove a package](https://www.reddit.com/r/archlinux/comments/ki9hmm/how_to_properly_removeuninstall_packagesapps_with/)
 - ?subject matter;
+
