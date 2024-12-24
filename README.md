@@ -200,4 +200,4 @@ select* "lie" from plural
 - get [Terminal configuration for colors](https://www.ternminal.sexy)
 # pacman 
 - [proberly remove a package](https://www.reddit.com/r/archlinux/comments/ki9hmm/how_to_properly_removeuninstall_packagesapps_with/)
-
+- ?subject matter;
