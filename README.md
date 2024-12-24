@@ -122,16 +122,6 @@
 - ?msc 
 > Unix
 - use /dev/net/tun();"character special (10/200)" 
-# english
-> ??
-```
-select* "lie" from plural
-```
-- resilient
-> ===
-- 
-# dlm Donwload Music
-- welcome to heartbreak Kanye West 
 # To-Do
 - github pages & cv; 
 - python if possible 
@@ -147,10 +137,10 @@ select* "lie" from plural
 - PS and Pash 
 - Git on PS
 - winget, Chocholaty, Get-Package PS;
-- :r! date
+<!-- :r! date-->
 - git on your own server
 - GIMP & Coursera linkedin
-- desire, I wanna cd into your heart!
+<!-- desire, I wanna cd into your heart!-->
 - github numbers insights etc 
 - pulse audio alsam inxi -A & audio manipulation program search
 - yt-dlp from txt >> endofline if duplicate break;
@@ -159,7 +149,7 @@ select* "lie" from plural
 - make em mechanics; make em embeded; make em x,y axis;
 - link tsoding view of bad hardware
 - auto corrct vim 
-- git repos locally
+<!--- git repos locally-->
 - git repo creation 
 - GPU order, debian & arch;
 - systemd vs runnit openrc;
