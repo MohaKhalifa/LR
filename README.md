@@ -191,7 +191,7 @@ select* "lie" from plural
 - ~/.vimrc >> pch && terminal.colors from asap;
 - text file sizes, post-compilation file sizes;
 - ?p7zip bash;
-- [Debian Advanced Installation](https://www.debian.orf)
+- [Debian Advanced Installation](https://www.debian.org)
 - APT replacement Chirtitus
 - Dbian server VS Ubuntu Server
 - GUI For vimrc for them crigners
