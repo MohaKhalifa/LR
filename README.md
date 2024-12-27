@@ -134,7 +134,7 @@
 - are github commits blames errasable
 - blame github
 - if diff: []
-- Bash Scripting: ?add custom script in the ~/.bashrc;
+- [Bash Scripting](https://devhints.io/bash): ?add custom script in the ~/.bashrc;
 - PS and Pash 
 - Git on PS
 - winget, Chocholaty, Get-Package PS;
