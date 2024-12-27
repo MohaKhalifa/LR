@@ -196,3 +196,4 @@
 - ?span vs div><><><><><
 - search engine optimization
 - man mailgo
+- [Buttons Magic - classic](https://www.w3schools.com/jsref/event_onclick.asp)
