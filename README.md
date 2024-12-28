@@ -190,6 +190,7 @@
 - Dbian server VS Ubuntu Server
 - GUI For vimrc for them crigners
 - get [Terminal configuration for colors](https://www.ternminal.sexy)
+- Methomonia - en
 # pacman 
 - [proberly remove a package](https://www.reddit.com/r/archlinux/comments/ki9hmm/how_to_properly_removeuninstall_packagesapps_with/)
 - ?subject matter;
