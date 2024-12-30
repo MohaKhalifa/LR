@@ -191,6 +191,7 @@
 - GUI For vimrc for them crigners
 - get [Terminal configuration for colors](https://www.ternminal.sexy)
 - Methomonia - en
+- {Richard Stallman - GNU Project](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 # pacman 
 - [proberly remove a package](https://www.reddit.com/r/archlinux/comments/ki9hmm/how_to_properly_removeuninstall_packagesapps_with/)
 - ?subject matter;
