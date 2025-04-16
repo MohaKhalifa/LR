@@ -11,8 +11,8 @@
 - [/yt-dlp source](https://github.com/yt-dlp/yt-dlp)
 
 # Bash  
->   Setting up a repo from the terminal
-> for windows
+> Setting up a repo from the terminal
+> for windows PS
 ```
  winget install Github.Cli
  winget install Git.Git
@@ -22,6 +22,7 @@
  git clone https://github.com/MohaKhalifa/LR.git; git clone https://github.com/MohaKhalifa/elgahid.git; git clone https://github.com/MohaKhalifa/my.files.git; git clone https://github.com/MohaKhalifa/jargon.git  
  git clone
 ```
+> Setting up a repo from the terminal Bash
 ```
  gh auth login 
  cd [repo dir] 
