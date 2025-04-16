@@ -21,8 +21,14 @@
  git branch -M [branch]
  git remote add origin [link]
  git push -u main origin main
- gh create repo [] [flags] --public 
-
+ gh create repo [] [flags] --public
+ winget install Github.Cli
+ winget install Git.Git
+ gh auth login
+ mkdir gh
+ cd .\gh
+ git clone https://github.com/MohaKhalifa/LR.git; git clone https://github.com/MohaKhalifa/elgahid.git; git clone https://github.com/MohaKhalifa/my.files.git; git clone https://github.com/MohaKhalifa/jargon.git  
+ git clone
 ```
 [ref](https://docs.github.com/en/github-cli/github-cli/quickstart)
 > ??
