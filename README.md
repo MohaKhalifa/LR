@@ -12,6 +12,16 @@
 
 # Bash  
 >   Setting up a repo from the terminal
+> for windows
+```
+ winget install Github.Cli
+ winget install Git.Git
+ gh auth login
+ mkdir gh
+ cd .\gh
+ git clone https://github.com/MohaKhalifa/LR.git; git clone https://github.com/MohaKhalifa/elgahid.git; git clone https://github.com/MohaKhalifa/my.files.git; git clone https://github.com/MohaKhalifa/jargon.git  
+ git clone
+```
 ```
  gh auth login 
  cd [repo dir] 
@@ -22,14 +32,8 @@
  git remote add origin [link]
  git push -u main origin main
  gh create repo [] [flags] --public
- winget install Github.Cli
- winget install Git.Git
- gh auth login
- mkdir gh
- cd .\gh
- git clone https://github.com/MohaKhalifa/LR.git; git clone https://github.com/MohaKhalifa/elgahid.git; git clone https://github.com/MohaKhalifa/my.files.git; git clone https://github.com/MohaKhalifa/jargon.git  
- git clone
 ```
+
 [ref](https://docs.github.com/en/github-cli/github-cli/quickstart)
 > ??
 - find file;
