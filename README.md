@@ -1,6 +1,9 @@
 # INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
 - why [Linkedin](https://linkedin.com) uses url while [The Zucc](https://facebook.com) ?uses;
 - bashrc irresponsive
+- I am Micky Mouse!!!!@@
+- extra scary 
+
 - ?except: bash;
 - [Comments In MarkDown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
 - duckduckgo search syntax 
