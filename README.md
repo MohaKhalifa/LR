@@ -219,3 +219,4 @@
  <!-- <button onclick="document.location='default.asp'">HTML Tutorial</button> -->
  - ?keyboard shortcut for elements in the dom
  - ?IPV6
+ - still how to get vim in powershell????>??>>?>?>??>?>
