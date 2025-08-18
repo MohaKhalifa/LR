@@ -1,6 +1,9 @@
 # INSTALL DEBIAN ASAP FRRF FRFFRFRFRFRFRF for [FreePlane](https://freeplane.org) & [PacketTracer](
 - why [Linkedin](https://linkedin.com) uses url while [The Zucc](https://facebook.com) ?uses;
 - bashrc irresponsive
+- I am Micky Mouse!!!!@@
+- extra scary 
+
 - ?except: bash;
 - [Comments In MarkDown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
 - duckduckgo search syntax 
@@ -11,7 +14,18 @@
 - [/yt-dlp source](https://github.com/yt-dlp/yt-dlp)
 
 # Bash  
->   Setting up a repo from the terminal
+> Setting up a repo from the terminal
+> for windows PS
+```
+ winget install Github.Cli
+ winget install Git.Git
+ gh auth login
+ mkdir gh
+ cd .\gh
+ git clone https://github.com/MohaKhalifa/LR.git; git clone https://github.com/MohaKhalifa/elgahid.git; git clone https://github.com/MohaKhalifa/my.files.git; git clone https://github.com/MohaKhalifa/jargon.git  
+ git clone
+```
+> Setting up a repo from the terminal Bash
 ```
  gh auth login 
  cd [repo dir] 
@@ -21,9 +35,9 @@
  git branch -M [branch]
  git remote add origin [link]
  git push -u main origin main
- gh create repo [] [flags] --public 
-
+ gh create repo [] [flags] --public
 ```
+
 [ref](https://docs.github.com/en/github-cli/github-cli/quickstart)
 > ??
 - find file;
