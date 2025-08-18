@@ -223,3 +223,8 @@
  - aliases in powershell still, god I hate windows?????????
  -  dif in windows
  -  get Linux and get it over with, really this is a waste of time
+ - ?p ces that GitHub can syncorize with
+ - weird text input method in notepad and LibreOffice Writer? how to end it and what is it called?
+ - attributes for git arguments
+ - efficiant way to use man in powershell
+ - the best approach to master your work as a software engineer is to define the problem, think of a salution, implement and document it, text it and push it, the best advise that you can get at the begginging of your journey, and ofc, make a certification showcasing that you know it, cause you never can assume that what you are doing is public knowledge; cause it's not. Finally brag about it on linked in
