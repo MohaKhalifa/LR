@@ -204,3 +204,4 @@
 - [hell is umask & dmesg](https://www.linkedin.com/posts/krishan199438_linux-bigdata-basics-activity-7276543872384557056-I7aa?utm_source=share&utm_medium=member_desktop)
  <!-- <button onclick="document.location='default.asp'">HTML Tutorial</button> -->
  - ?keyboard shortcut for elements in the dom
+ - ?IPV6
