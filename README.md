@@ -221,3 +221,5 @@
  - ?IPV6
  - still how to get vim in powershell????>??>>?>?>??>?>
  - aliases in powershell still, god I hate windows?????????
+ -  dif in windows
+ -  get Linux and get it over with, really this is a waste of time
